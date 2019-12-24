@@ -1,0 +1,14 @@
+.location{
+    color: white;
+}
+.backco{
+    background-color: rgb(11, 22, 83);
+}
+
+.card-col{
+    background: #07458b;
+}
+
+.ca1{
+    background-image: linear-gradient(rgb(11, 22, 83),#07458b,rgb(11, 22, 83));
+}
